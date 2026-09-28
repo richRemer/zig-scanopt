@@ -1,0 +1,13 @@
+.{
+    .name = .scanopt,
+    .version = "0.0.1",
+    .fingerprint = 0x8afbf63f0f35b837,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
